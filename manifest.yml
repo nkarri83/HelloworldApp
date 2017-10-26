@@ -1,0 +1,5 @@
+---
+applications:
+- name: HelloworldApp
+  memory: 512M
+  instances: 1
