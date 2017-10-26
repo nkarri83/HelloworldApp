@@ -3,3 +3,4 @@ applications:
 - name: samplehelloworld
   memory: 512M
   instances: 1
+  host: samplehelloworld
