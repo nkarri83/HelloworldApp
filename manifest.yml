@@ -1,6 +1,6 @@
 ---
 applications:
 - name: samplehelloworld
-  memory: 512M
+  memory: 1G
   instances: 4
   host: samplehelloworld
